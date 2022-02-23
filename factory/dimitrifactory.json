@@ -1,0 +1,9 @@
+{
+	"name": "dimitrifactory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "325bc082-77a4-458c-9cba-5574c80c5bfd",
+		"tenantId": "3bfe42d6-c684-45f5-97fb-40c905c1dfff"
+	}
+}
